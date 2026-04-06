@@ -14,7 +14,7 @@ A nonogram app
     ],
     "size": {
       "width": 4,
-      "height: 4
+      "height": 4
     }
     "columns": [
       { "data": [1,1] },
