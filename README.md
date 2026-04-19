@@ -1,6 +1,8 @@
 # horethgrams
 A nonogram app
 
+🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+
 ## Sample data structure
 <small>This is subject to change</small>
 ```json
